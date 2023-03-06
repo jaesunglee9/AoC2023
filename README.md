@@ -9,3 +9,7 @@ Haskell
 Smalltalk
 Forth
 Lua
+
+C
+C++
+Python
